@@ -60,4 +60,7 @@ If you are having some issues running the app, run the following script to clear
 npm run cleanNpm
 ```
 
+
+
 ## App Demo
+https://github.com/AneezaImtiaz/Custom-Keyboard-App/assets/41996524/676ec5f9-1cb7-4cb5-ae40-7bac292395db
